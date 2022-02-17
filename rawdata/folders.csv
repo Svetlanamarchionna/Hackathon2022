@@ -1,0 +1,9 @@
+id,parent_id,root_id,created_on,updated_on,name,description,is_deleted,custom_order
+c27ec9d0-5679-4a82-9ce9-4e7808234588,da8822cb-0d20-4ba5-bcb5-39ff505b2c65,7f69c1a9-1516-4d0c-a893-72021bae01a9,2022-02-16 16:08:55.838833 +00:00,2022-02-16 16:13:10.023422 +00:00,Images of RC,,FALSE,FALSE
+c7f5a088-10ae-4e1d-b530-9714e6125993,958c8ede-7243-47fa-80e9-a779bc9957cd,7f69c1a9-1516-4d0c-a893-72021bae01a9,2022-02-16 15:52:23.803577 +00:00,2022-02-16 15:52:51.258799 +00:00,subfolder 2,,FALSE,FALSE
+c9bc863e-66a9-498e-b97b-e6e86676915b,803b4329-bd06-4bf5-a1a2-162a88d0c65a,7f69c1a9-1516-4d0c-a893-72021bae01a9,2022-02-16 15:52:01.764317 +00:00,2022-02-16 15:52:14.310675 +00:00,subfolder 1.1,,FALSE,FALSE
+803b4329-bd06-4bf5-a1a2-162a88d0c65a,958c8ede-7243-47fa-80e9-a779bc9957cd,7f69c1a9-1516-4d0c-a893-72021bae01a9,2022-02-16 15:39:53.586438 +00:00,2022-02-16 15:52:14.303711 +00:00,subfolder 1,,FALSE,FALSE
+da8822cb-0d20-4ba5-bcb5-39ff505b2c65,7f69c1a9-1516-4d0c-a893-72021bae01a9,7f69c1a9-1516-4d0c-a893-72021bae01a9,2022-02-16 14:44:40.066017 +00:00,2022-02-16 16:15:11.927154 +00:00,Rachel Carson,"Rachel Louise Carson was an American marine biologist, author, and conservationist whose influential book Silent Spring and other writings are credited with advancing the global environmental movement.",FALSE,FALSE
+958c8ede-7243-47fa-80e9-a779bc9957cd,7f69c1a9-1516-4d0c-a893-72021bae01a9,7f69c1a9-1516-4d0c-a893-72021bae01a9,2022-02-16 14:44:21.250944 +00:00,2022-02-16 16:05:08.367364 +00:00,Apartheid,A collection of various apartheid-related items for further inspection.,FALSE,FALSE
+02a5f4b6-f58d-4e89-a4a5-a5ddd50f168f,7f69c1a9-1516-4d0c-a893-72021bae01a9,7f69c1a9-1516-4d0c-a893-72021bae01a9,2022-02-16 14:44:11.109684 +00:00,2022-02-16 15:37:16.546707 +00:00,Freedom Road,,FALSE,FALSE
+7f69c1a9-1516-4d0c-a893-72021bae01a9,,7f69c1a9-1516-4d0c-a893-72021bae01a9,2022-02-16 14:44:11.064943 +00:00,2022-02-16 15:59:03.037956 +00:00,Workspace,,FALSE,FALSE

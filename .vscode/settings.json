@@ -1,0 +1,6 @@
+{
+    "jupyter.sendSelectionToInteractiveWindow": true,
+    "python.disableInstallationCheck": true,
+    "jupyter.allowUnauthorizedRemoteConnection": true,
+    "jupyter.alwaysScrollOnNewCell": true
+}
